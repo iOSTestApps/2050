@@ -504,7 +504,6 @@
 		2443DC8C18D662CA00C920C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Doe Pics Hit Inc";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -520,7 +519,6 @@
 		2443DC8D18D662CA00C920C1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Doe Pics Hit Inc";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
